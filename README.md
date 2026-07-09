@@ -74,12 +74,6 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here after deployment.)
-
----
-
 ## 👩‍💻 Author
 
 **Indumathi**
